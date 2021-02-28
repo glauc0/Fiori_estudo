@@ -12,6 +12,7 @@
 						<Button
 							text="Teste"
 							press="onPress" />
+						<Text text="Texto no master" />
 					</content> 
 				</Page>
 			</pages>
