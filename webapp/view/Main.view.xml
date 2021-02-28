@@ -10,7 +10,9 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Button
-							text="Teste"
+							text="Teste" />
+						<Button
+							text="Teste 2"
 							press="onPress" />
 					</content> 
 				</Page>
