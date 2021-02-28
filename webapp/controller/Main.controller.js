@@ -9,7 +9,7 @@ sap.ui.define(
     return Controller.extend("eggo.github1.controller.Main", {
       onInit: function () {},
       onPress: function () {
-		  var sMessage = "Teste";
+		  var sMessage = "Teste de uma nova versão";
 		  MessageToast.show(sMessage)
 	  },
     });
